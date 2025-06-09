@@ -1,5 +1,7 @@
 # 義枝 (Righteous Branch) - 互動機械藝術裝置
 
+[![版本](https://img.shields.io/badge/版本-2.0.1-blue.svg)](https://github.com/chenweichiang/Work-Righteous-Branch/releases/tag/v2.0.1)
+
 這個 Arduino 項目控制一個模擬有機生命運動的多關節機械裝置，通過六個伺服馬達實現類生物行為的運動模式。
 
 
@@ -126,8 +128,7 @@
 
 ## 作者
 
-[您的姓名/團隊]
+[Chiang, Chenwei]
+https://interaction.tw/
 
-## 鳴謝
 
-[如有任何貢獻者或參考資源]
